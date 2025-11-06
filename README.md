@@ -7,4 +7,6 @@ oefening voor lessen github op ma college amsterdam
 2.push
 3.pull
 
+
+ffdsfgdgdgd
 ### html toegevoegt
