@@ -8,5 +8,4 @@ oefening voor lessen github op ma college amsterdam
 3.pull
 
 
-ffdsfgdgdgd
 ### html toegevoegt
